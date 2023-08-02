@@ -1,0 +1,9 @@
+body{
+	background-image: url('b.jpg');
+	background-repeat: no-repeat;
+	background-size: 500px;
+	
+}
+h1{
+	color: blue;
+}
